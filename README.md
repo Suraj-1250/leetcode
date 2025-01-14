@@ -25,6 +25,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suraj-1250/leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
