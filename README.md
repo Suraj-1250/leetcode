@@ -17,6 +17,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Suraj-1250/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Suraj-1250/leetcode/tree/master/2509-minimize-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Daily Problem of the Day
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/Suraj-1250/leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
