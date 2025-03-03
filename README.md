@@ -43,6 +43,7 @@ Daily Problem of the Day
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-1250/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Suraj-1250/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suraj-1250/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -107,4 +108,8 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suraj-1250/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
