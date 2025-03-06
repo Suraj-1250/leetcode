@@ -64,6 +64,7 @@ Daily Problem of the Day
 | ------- |
 | [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suraj-1250/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Suraj-1250/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Prefix Sum
 |  |
 | ------- |
