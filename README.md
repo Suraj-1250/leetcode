@@ -25,6 +25,7 @@ Daily Problem of the Day
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suraj-1250/leetcode/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-1250/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Daily Problem of the Day
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-1250/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Suraj-1250/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suraj-1250/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -94,6 +96,7 @@ Daily Problem of the Day
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
