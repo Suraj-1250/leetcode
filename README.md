@@ -68,6 +68,7 @@ Daily Problem of the Day
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suraj-1250/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Suraj-1250/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Daily Problem of the Day
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suraj-1250/leetcode/tree/master/0238-product-of-array-except-self) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Suraj-1250/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Daily Problem of the Day
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Suraj-1250/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +147,7 @@ Daily Problem of the Day
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Suraj-1250/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -154,6 +158,7 @@ Daily Problem of the Day
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Suraj-1250/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suraj-1250/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Suraj-1250/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
