@@ -86,6 +86,7 @@ Daily Problem of the Day
 | [0029-divide-two-integers](https://github.com/Suraj-1250/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
 | [1448-maximum-69-number](https://github.com/Suraj-1250/leetcode/tree/master/1448-maximum-69-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Suraj-1250/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suraj-1250/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Suraj-1250/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
