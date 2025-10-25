@@ -7,6 +7,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suraj-1250/leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Suraj-1250/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suraj-1250/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -40,6 +41,7 @@ Daily Problem of the Day
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -83,6 +85,7 @@ Daily Problem of the Day
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Suraj-1250/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
 | [1448-maximum-69-number](https://github.com/Suraj-1250/leetcode/tree/master/1448-maximum-69-number) |
