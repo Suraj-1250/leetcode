@@ -42,6 +42,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
+| [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -65,6 +66,7 @@ Daily Problem of the Day
 | [1628-count-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suraj-1250/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suraj-1250/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -150,6 +152,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suraj-1250/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -188,4 +191,8 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
