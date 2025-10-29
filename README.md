@@ -88,6 +88,7 @@ Daily Problem of the Day
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suraj-1250/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Suraj-1250/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Suraj-1250/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Daily Problem of the Day
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Suraj-1250/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Suraj-1250/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Suraj-1250/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
