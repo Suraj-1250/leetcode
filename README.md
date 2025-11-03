@@ -77,6 +77,7 @@ Daily Problem of the Day
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suraj-1250/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -145,6 +146,7 @@ Daily Problem of the Day
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Daily Problem of the Day
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suraj-1250/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Suraj-1250/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
