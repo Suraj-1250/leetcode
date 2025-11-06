@@ -9,6 +9,7 @@ Daily Problem of the Day
 | [0010-regular-expression-matching](https://github.com/Suraj-1250/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Suraj-1250/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Suraj-1250/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Suraj-1250/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -51,6 +52,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -74,6 +76,7 @@ Daily Problem of the Day
 | [0015-3sum](https://github.com/Suraj-1250/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Suraj-1250/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Suraj-1250/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-1250/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Suraj-1250/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -188,6 +191,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Suraj-1250/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
