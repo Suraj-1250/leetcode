@@ -131,6 +131,7 @@ Daily Problem of the Day
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suraj-1250/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Suraj-1250/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Suraj-1250/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Suraj-1250/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Suraj-1250/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -207,6 +208,7 @@ Daily Problem of the Day
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Suraj-1250/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suraj-1250/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Suraj-1250/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
