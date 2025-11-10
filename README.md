@@ -158,6 +158,7 @@ Daily Problem of the Day
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -270,6 +271,7 @@ Daily Problem of the Day
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -287,4 +289,12 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Suraj-1250/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
