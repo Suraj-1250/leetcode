@@ -18,6 +18,7 @@ Daily Problem of the Day
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suraj-1250/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suraj-1250/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Suraj-1250/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -35,6 +36,7 @@ Daily Problem of the Day
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Suraj-1250/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Suraj-1250/leetcode/tree/master/2509-minimize-xor) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Suraj-1250/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Suraj-1250/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Suraj-1250/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -78,6 +80,7 @@ Daily Problem of the Day
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suraj-1250/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Suraj-1250/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Array
 |  |
 | ------- |
