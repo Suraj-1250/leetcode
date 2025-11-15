@@ -18,6 +18,7 @@ Daily Problem of the Day
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suraj-1250/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suraj-1250/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Suraj-1250/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Suraj-1250/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
@@ -253,6 +254,7 @@ Daily Problem of the Day
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Suraj-1250/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suraj-1250/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Suraj-1250/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Suraj-1250/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Suraj-1250/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Suraj-1250/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -276,6 +278,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Suraj-1250/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Design
 |  |
 | ------- |
