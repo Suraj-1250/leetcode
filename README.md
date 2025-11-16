@@ -12,6 +12,7 @@ Daily Problem of the Day
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Suraj-1250/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Suraj-1250/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Suraj-1250/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -142,6 +143,7 @@ Daily Problem of the Day
 | [0048-rotate-image](https://github.com/Suraj-1250/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
 | [1448-maximum-69-number](https://github.com/Suraj-1250/leetcode/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Suraj-1250/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Suraj-1250/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suraj-1250/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
