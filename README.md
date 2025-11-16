@@ -45,6 +45,7 @@ Daily Problem of the Day
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suraj-1250/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Suraj-1250/leetcode/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Suraj-1250/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-1250/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -275,6 +276,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suraj-1250/leetcode/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Suraj-1250/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
@@ -309,9 +311,15 @@ Daily Problem of the Day
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Suraj-1250/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Suraj-1250/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Suraj-1250/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
