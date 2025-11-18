@@ -95,6 +95,7 @@ Daily Problem of the Day
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-1250/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Suraj-1250/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Suraj-1250/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
