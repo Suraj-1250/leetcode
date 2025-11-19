@@ -67,6 +67,7 @@ Daily Problem of the Day
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -109,6 +110,7 @@ Daily Problem of the Day
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suraj-1250/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -222,6 +224,7 @@ Daily Problem of the Day
 | ------- |
 | [0015-3sum](https://github.com/Suraj-1250/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Suraj-1250/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -233,6 +236,7 @@ Daily Problem of the Day
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Suraj-1250/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suraj-1250/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
