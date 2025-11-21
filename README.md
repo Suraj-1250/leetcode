@@ -15,6 +15,7 @@ Daily Problem of the Day
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Suraj-1250/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Suraj-1250/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Suraj-1250/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -67,6 +68,7 @@ Daily Problem of the Day
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -138,6 +140,7 @@ Daily Problem of the Day
 | ------- |
 | [0029-divide-two-integers](https://github.com/Suraj-1250/leetcode/tree/master/0029-divide-two-integers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Suraj-1250/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Suraj-1250/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suraj-1250/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -167,6 +170,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suraj-1250/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Suraj-1250/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Suraj-1250/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Suraj-1250/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
