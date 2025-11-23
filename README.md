@@ -9,6 +9,7 @@ Daily Problem of the Day
 | [0010-regular-expression-matching](https://github.com/Suraj-1250/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Suraj-1250/leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Suraj-1250/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Suraj-1250/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -158,6 +159,7 @@ Daily Problem of the Day
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Suraj-1250/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Suraj-1250/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Suraj-1250/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Suraj-1250/leetcode/tree/master/0069-sqrtx) |
@@ -251,6 +253,7 @@ Daily Problem of the Day
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Suraj-1250/leetcode/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
