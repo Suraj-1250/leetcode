@@ -35,6 +35,7 @@ Daily Problem of the Day
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Suraj-1250/leetcode/tree/master/0135-candy) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Suraj-1250/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Suraj-1250/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Suraj-1250/leetcode/tree/master/1448-maximum-69-number) |
@@ -103,6 +104,7 @@ Daily Problem of the Day
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj-1250/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-1250/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Suraj-1250/leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Suraj-1250/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Suraj-1250/leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Suraj-1250/leetcode/tree/master/0238-product-of-array-except-self) |
