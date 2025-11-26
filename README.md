@@ -62,6 +62,7 @@ Daily Problem of the Day
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Suraj-1250/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Suraj-1250/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Suraj-1250/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Recursion
 |  |
@@ -129,6 +130,7 @@ Daily Problem of the Day
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suraj-1250/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Suraj-1250/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -227,6 +229,7 @@ Daily Problem of the Day
 | [1628-count-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Suraj-1250/leetcode/tree/master/2625-increment-submatrices-by-one) |
 ## Shortest Path
 |  |
