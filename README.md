@@ -338,6 +338,7 @@ Daily Problem of the Day
 | [0098-validate-binary-search-tree](https://github.com/Suraj-1250/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Suraj-1250/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -362,6 +363,7 @@ Daily Problem of the Day
 | [0098-validate-binary-search-tree](https://github.com/Suraj-1250/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Suraj-1250/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
