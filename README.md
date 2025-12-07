@@ -187,6 +187,7 @@ Daily Problem of the Day
 | [0069-sqrtx](https://github.com/Suraj-1250/leetcode/tree/master/0069-sqrtx) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/Suraj-1250/leetcode/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Suraj-1250/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Suraj-1250/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Suraj-1250/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suraj-1250/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
