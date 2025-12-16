@@ -70,6 +70,7 @@ Daily Problem of the Day
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Suraj-1250/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Suraj-1250/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Suraj-1250/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Recursion
 |  |
@@ -163,6 +164,7 @@ Daily Problem of the Day
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Suraj-1250/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Suraj-1250/leetcode/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Suraj-1250/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Suraj-1250/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Suraj-1250/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Suraj-1250/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -387,6 +389,7 @@ Daily Problem of the Day
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Suraj-1250/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Suraj-1250/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -414,6 +417,7 @@ Daily Problem of the Day
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Suraj-1250/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Suraj-1250/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
