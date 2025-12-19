@@ -252,11 +252,13 @@ Daily Problem of the Day
 | ------- |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
@@ -303,6 +305,7 @@ Daily Problem of the Day
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Suraj-1250/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Suraj-1250/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Suraj-1250/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -393,12 +396,14 @@ Daily Problem of the Day
 | [0098-validate-binary-search-tree](https://github.com/Suraj-1250/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
+| [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Suraj-1250/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Suraj-1250/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
