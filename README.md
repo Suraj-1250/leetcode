@@ -14,6 +14,7 @@ Daily Problem of the Day
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Suraj-1250/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Suraj-1250/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Suraj-1250/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Suraj-1250/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -130,6 +131,7 @@ Daily Problem of the Day
 | [0717-1-bit-and-2-bit-characters](https://github.com/Suraj-1250/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Suraj-1250/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Suraj-1250/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Suraj-1250/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Suraj-1250/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
