@@ -14,6 +14,7 @@ Daily Problem of the Day
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Suraj-1250/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/Suraj-1250/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Suraj-1250/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Suraj-1250/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Suraj-1250/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -90,6 +91,7 @@ Daily Problem of the Day
 | ------- |
 | [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
+| [0756-pyramid-transition-matrix](https://github.com/Suraj-1250/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
@@ -200,6 +202,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Suraj-1250/leetcode/tree/master/0029-divide-two-integers) |
+| [0756-pyramid-transition-matrix](https://github.com/Suraj-1250/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Suraj-1250/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Suraj-1250/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -400,6 +403,7 @@ Daily Problem of the Day
 | [0022-generate-parentheses](https://github.com/Suraj-1250/leetcode/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Suraj-1250/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/Suraj-1250/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Suraj-1250/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
