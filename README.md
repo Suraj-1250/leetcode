@@ -92,6 +92,7 @@ Daily Problem of the Day
 | [0012-integer-to-roman](https://github.com/Suraj-1250/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [0756-pyramid-transition-matrix](https://github.com/Suraj-1250/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
@@ -139,6 +140,7 @@ Daily Problem of the Day
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Suraj-1250/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Suraj-1250/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Suraj-1250/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Suraj-1250/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -221,6 +223,7 @@ Daily Problem of the Day
 | [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Suraj-1250/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Suraj-1250/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/Suraj-1250/leetcode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Suraj-1250/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -292,6 +295,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Suraj-1250/leetcode/tree/master/0048-rotate-image) |
+| [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suraj-1250/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
