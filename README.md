@@ -156,6 +156,7 @@ Daily Problem of the Day
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Suraj-1250/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Suraj-1250/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suraj-1250/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Suraj-1250/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Suraj-1250/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -273,6 +274,7 @@ Daily Problem of the Day
 | ------- |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -300,6 +302,7 @@ Daily Problem of the Day
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -366,6 +369,7 @@ Daily Problem of the Day
 | [0162-find-peak-element](https://github.com/Suraj-1250/leetcode/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suraj-1250/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Suraj-1250/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Suraj-1250/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -425,6 +429,7 @@ Daily Problem of the Day
 | [0098-validate-binary-search-tree](https://github.com/Suraj-1250/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Suraj-1250/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Suraj-1250/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -432,6 +437,7 @@ Daily Problem of the Day
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
