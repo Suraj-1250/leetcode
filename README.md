@@ -130,6 +130,7 @@ Daily Problem of the Day
 | [0035-search-insert-position](https://github.com/Suraj-1250/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Suraj-1250/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Suraj-1250/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj-1250/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-1250/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -222,6 +223,7 @@ Daily Problem of the Day
 | [0043-multiply-strings](https://github.com/Suraj-1250/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Suraj-1250/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Suraj-1250/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Suraj-1250/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Suraj-1250/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Suraj-1250/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
