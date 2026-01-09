@@ -96,6 +96,7 @@ Daily Problem of the Day
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [0756-pyramid-transition-matrix](https://github.com/Suraj-1250/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Suraj-1250/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Suraj-1250/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Suraj-1250/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -284,6 +285,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Suraj-1250/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Suraj-1250/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -442,6 +444,7 @@ Daily Problem of the Day
 | [0098-validate-binary-search-tree](https://github.com/Suraj-1250/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Suraj-1250/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Suraj-1250/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suraj-1250/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -476,6 +479,7 @@ Daily Problem of the Day
 | [0098-validate-binary-search-tree](https://github.com/Suraj-1250/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Suraj-1250/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Suraj-1250/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suraj-1250/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Suraj-1250/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -488,6 +492,7 @@ Daily Problem of the Day
 | [0098-validate-binary-search-tree](https://github.com/Suraj-1250/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-1250/leetcode/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/Suraj-1250/leetcode/tree/master/0113-path-sum-ii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Suraj-1250/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Suraj-1250/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suraj-1250/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
