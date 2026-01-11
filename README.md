@@ -65,6 +65,7 @@ Daily Problem of the Day
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suraj-1250/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Suraj-1250/leetcode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Suraj-1250/leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Suraj-1250/leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Suraj-1250/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Suraj-1250/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -139,6 +140,7 @@ Daily Problem of the Day
 | [0035-search-insert-position](https://github.com/Suraj-1250/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Suraj-1250/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/Suraj-1250/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Suraj-1250/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj-1250/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -316,6 +318,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Suraj-1250/leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Suraj-1250/leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Suraj-1250/leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suraj-1250/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
