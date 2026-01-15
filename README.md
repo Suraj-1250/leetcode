@@ -192,6 +192,7 @@ Daily Problem of the Day
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Suraj-1250/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Suraj-1250/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Suraj-1250/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suraj-1250/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suraj-1250/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -365,6 +366,7 @@ Daily Problem of the Day
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Suraj-1250/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Suraj-1250/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Suraj-1250/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Suraj-1250/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
