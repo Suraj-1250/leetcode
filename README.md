@@ -201,6 +201,7 @@ Daily Problem of the Day
 | [3075-maximize-happiness-of-selected-children](https://github.com/Suraj-1250/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suraj-1250/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Suraj-1250/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Suraj-1250/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suraj-1250/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Suraj-1250/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -241,6 +242,7 @@ Daily Problem of the Day
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suraj-1250/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Suraj-1250/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Suraj-1250/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Suraj-1250/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Suraj-1250/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Math
 |  |
