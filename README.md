@@ -52,6 +52,7 @@ Daily Problem of the Day
 | [1448-maximum-69-number](https://github.com/Suraj-1250/leetcode/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Suraj-1250/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Suraj-1250/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Suraj-1250/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Suraj-1250/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Suraj-1250/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Suraj-1250/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -176,6 +177,7 @@ Daily Problem of the Day
 | [1628-count-submatrices-with-all-ones](https://github.com/Suraj-1250/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Suraj-1250/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Suraj-1250/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Suraj-1250/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Suraj-1250/leetcode/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suraj-1250/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Suraj-1250/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -374,6 +376,7 @@ Daily Problem of the Day
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suraj-1250/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj-1250/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Suraj-1250/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Suraj-1250/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suraj-1250/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Suraj-1250/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
@@ -383,6 +386,7 @@ Daily Problem of the Day
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Suraj-1250/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Suraj-1250/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Suraj-1250/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2092-find-all-people-with-secret](https://github.com/Suraj-1250/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Suraj-1250/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Suraj-1250/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
