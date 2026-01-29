@@ -28,6 +28,7 @@ Daily Problem of the Day
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Suraj-1250/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suraj-1250/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Suraj-1250/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Suraj-1250/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suraj-1250/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Suraj-1250/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Suraj-1250/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -203,6 +204,7 @@ Daily Problem of the Day
 | [2792-neighboring-bitwise-xor](https://github.com/Suraj-1250/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Suraj-1250/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Suraj-1250/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Suraj-1250/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Suraj-1250/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suraj-1250/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -365,6 +367,7 @@ Daily Problem of the Day
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suraj-1250/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Suraj-1250/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Suraj-1250/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Linked List
 |  |
@@ -585,5 +588,6 @@ Daily Problem of the Day
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Suraj-1250/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Suraj-1250/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
