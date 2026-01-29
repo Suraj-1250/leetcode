@@ -91,6 +91,7 @@ Daily Problem of the Day
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Suraj-1250/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Suraj-1250/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Suraj-1250/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Suraj-1250/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Recursion
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Daily Problem of the Day
 | [3623-count-number-of-trapezoids-i](https://github.com/Suraj-1250/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Suraj-1250/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Suraj-1250/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Suraj-1250/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Suraj-1250/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Suraj-1250/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Suraj-1250/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -363,6 +365,7 @@ Daily Problem of the Day
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Suraj-1250/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Suraj-1250/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Suraj-1250/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |
