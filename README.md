@@ -160,6 +160,7 @@ Daily Problem of the Day
 | [0238-product-of-array-except-self](https://github.com/Suraj-1250/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Suraj-1250/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Suraj-1250/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Suraj-1250/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -441,6 +442,7 @@ Daily Problem of the Day
 | [0035-search-insert-position](https://github.com/Suraj-1250/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Suraj-1250/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Suraj-1250/leetcode/tree/master/0162-find-peak-element) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Suraj-1250/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Suraj-1250/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Suraj-1250/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suraj-1250/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
