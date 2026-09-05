@@ -13,6 +13,7 @@ Daily Problem of the Day
 | [0049-group-anagrams](https://github.com/Suraj-1250/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Suraj-1250/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Suraj-1250/leetcode/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/Suraj-1250/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Suraj-1250/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Suraj-1250/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -271,6 +272,7 @@ Daily Problem of the Day
 | [0066-plus-one](https://github.com/Suraj-1250/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Suraj-1250/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Suraj-1250/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0412-fizz-buzz](https://github.com/Suraj-1250/leetcode/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/Suraj-1250/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suraj-1250/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Suraj-1250/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -422,6 +424,7 @@ Daily Problem of the Day
 | ------- |
 | [0043-multiply-strings](https://github.com/Suraj-1250/leetcode/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Suraj-1250/leetcode/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/Suraj-1250/leetcode/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Suraj-1250/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Suraj-1250/leetcode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Suraj-1250/leetcode/tree/master/2211-count-collisions-on-a-road) |
